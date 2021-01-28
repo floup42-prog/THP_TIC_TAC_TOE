@@ -96,10 +96,10 @@ class Game
       def initialize
         puts "Player 1, quelle est ton nom"
         @player1 = gets.chomp
-        puts "#{@player1} is X"
+        puts "#{@player1} à les X"
         puts "Player 2, quelle est ton nom"
         @player2 = gets.chomp
-        puts "#{@player2} is O"
+        puts "#{@player2} à les O"
       end
     
     end
