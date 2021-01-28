@@ -6,17 +6,20 @@ TIC TAC TOE ou Morpion
 
 le jeux étape par étape
 
-2 joueur 
+présentation des 2 joueur 
 
 quelle est ton nom ? * 2
 
-      player 1 choisis les "o" ou "x" (optinnel)
+      player 1 choisis les "o" ou "x" (optionnel)
 
-choisis un chiffre ou tu veux mettre t'as o ou x
+affichage de la board
 
-bon si 3 o ou x sont aligner c'est la victoire !
+choisir un chiffre de 0 à 8 pour savoir ou tu veux te positioner dans le l'array
+            cela mettre ton symbole à l'emplacement que tu souhaite 
 
-les symbole o et x doive être stocker dans un array
+bon si 3 "o" ou "x" sont aligner c'est la victoire !
+
+
 
 
 rappel des régle :

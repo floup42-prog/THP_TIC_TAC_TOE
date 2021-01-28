@@ -1,9 +1,9 @@
 require "bundler"
 Bundler.require
 
-#permet d'inizializer le jeu, les joueurs avec certaine conditions
+  #permet d'inizializer le jeu, les joueurs avec certaine conditions
 class Game
-    #condition de victoire en fonction de array @board
+      #condition de victoire en fonction de array @board
     WINNING_COMBOS = [
     [0,1,2],
     [3,4,5],
